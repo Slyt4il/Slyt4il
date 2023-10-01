@@ -15,7 +15,7 @@
 
 ###
 
-<h2 align="center">Area of Interest</h2>
+<h2 align="center">Areas of Interest</h2>
 
 ###
 
@@ -52,5 +52,21 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
 </div>
+
+###
+
+<h4 align="left">💡 Others</h4>
+
+###
+
+<h5 align="left">✒️ Writing and world building</h5>
+
+###
+
+<h5 align="left">⛩️ Japanese language, culture, and mythology</h5>
+
+###
+
+<h5 align="left">✈️ Civil Aviation</h5>
 
 ###
