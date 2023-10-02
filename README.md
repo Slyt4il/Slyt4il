@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="249" src="https://media.tenor.com/Ruab30Bcj0wAAAAC/blue-archive-peace-out.gif"  />
+  <img width="215" height="249" src="https://media.tenor.com/Ruab30Bcj0wAAAAC/blue-archive-peace-out.gif"  />
 </div>
 
 ###
